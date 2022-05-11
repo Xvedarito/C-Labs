@@ -1,0 +1,4 @@
+﻿  Sem2Lab4Task11.cpp
+C:\Users\Xvedar\source\repos\Sem2Lab4Task11\Sem2Lab4Task11.cpp(66): warning C4172: возвращение адреса локальной или временной переменной : var
+C:\Users\Xvedar\source\repos\Sem2Lab4Task11\Sem2Lab4Task11.cpp(199): warning C4172: возвращение адреса локальной или временной переменной : In
+  Sem2Lab4Task11.vcxproj -> C:\Users\Xvedar\source\repos\Sem2Lab4Task11\Debug\Sem2Lab4Task11.exe
