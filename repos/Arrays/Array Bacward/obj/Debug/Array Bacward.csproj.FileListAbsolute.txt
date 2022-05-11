@@ -1,0 +1,7 @@
+C:\Users\Saint\source\repos\Arrays\Array Bacward\bin\Debug\Array Bacward.exe.config
+C:\Users\Saint\source\repos\Arrays\Array Bacward\bin\Debug\Array Bacward.exe
+C:\Users\Saint\source\repos\Arrays\Array Bacward\bin\Debug\Array Bacward.pdb
+C:\Users\Saint\source\repos\Arrays\Array Bacward\obj\Debug\Array Bacward.csproj.AssemblyReference.cache
+C:\Users\Saint\source\repos\Arrays\Array Bacward\obj\Debug\Array Bacward.csproj.CoreCompileInputs.cache
+C:\Users\Saint\source\repos\Arrays\Array Bacward\obj\Debug\Array Bacward.exe
+C:\Users\Saint\source\repos\Arrays\Array Bacward\obj\Debug\Array Bacward.pdb

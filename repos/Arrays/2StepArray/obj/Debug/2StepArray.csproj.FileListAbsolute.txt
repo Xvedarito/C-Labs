@@ -1,0 +1,7 @@
+C:\Users\Saint\source\repos\Arrays\2StepArray\bin\Debug\2StepArray.exe.config
+C:\Users\Saint\source\repos\Arrays\2StepArray\bin\Debug\2StepArray.exe
+C:\Users\Saint\source\repos\Arrays\2StepArray\bin\Debug\2StepArray.pdb
+C:\Users\Saint\source\repos\Arrays\2StepArray\obj\Debug\2StepArray.csproj.AssemblyReference.cache
+C:\Users\Saint\source\repos\Arrays\2StepArray\obj\Debug\2StepArray.csproj.CoreCompileInputs.cache
+C:\Users\Saint\source\repos\Arrays\2StepArray\obj\Debug\2StepArray.exe
+C:\Users\Saint\source\repos\Arrays\2StepArray\obj\Debug\2StepArray.pdb

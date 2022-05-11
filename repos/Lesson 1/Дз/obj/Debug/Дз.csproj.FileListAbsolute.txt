@@ -1,0 +1,7 @@
+C:\Users\Saint\source\repos\Lesson 1\Дз\bin\Debug\Дз.exe.config
+C:\Users\Saint\source\repos\Lesson 1\Дз\bin\Debug\Дз.exe
+C:\Users\Saint\source\repos\Lesson 1\Дз\bin\Debug\Дз.pdb
+C:\Users\Saint\source\repos\Lesson 1\Дз\obj\Debug\Дз.csproj.AssemblyReference.cache
+C:\Users\Saint\source\repos\Lesson 1\Дз\obj\Debug\Дз.csproj.CoreCompileInputs.cache
+C:\Users\Saint\source\repos\Lesson 1\Дз\obj\Debug\Дз.exe
+C:\Users\Saint\source\repos\Lesson 1\Дз\obj\Debug\Дз.pdb

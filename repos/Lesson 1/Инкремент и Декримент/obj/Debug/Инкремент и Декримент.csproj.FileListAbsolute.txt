@@ -1,0 +1,7 @@
+C:\Users\Saint\source\repos\Lesson 1\Инкремент и Декримент\bin\Debug\Инкремент и Декримент.exe.config
+C:\Users\Saint\source\repos\Lesson 1\Инкремент и Декримент\bin\Debug\Инкремент и Декримент.exe
+C:\Users\Saint\source\repos\Lesson 1\Инкремент и Декримент\bin\Debug\Инкремент и Декримент.pdb
+C:\Users\Saint\source\repos\Lesson 1\Инкремент и Декримент\obj\Debug\Инкремент и Декримент.csproj.AssemblyReference.cache
+C:\Users\Saint\source\repos\Lesson 1\Инкремент и Декримент\obj\Debug\Инкремент и Декримент.csproj.CoreCompileInputs.cache
+C:\Users\Saint\source\repos\Lesson 1\Инкремент и Декримент\obj\Debug\Инкремент и Декримент.exe
+C:\Users\Saint\source\repos\Lesson 1\Инкремент и Декримент\obj\Debug\Инкремент и Декримент.pdb

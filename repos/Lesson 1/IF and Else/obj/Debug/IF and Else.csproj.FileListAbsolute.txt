@@ -1,0 +1,7 @@
+C:\Users\Saint\source\repos\Lesson 1\IF and Else\bin\Debug\IF and Else.exe.config
+C:\Users\Saint\source\repos\Lesson 1\IF and Else\bin\Debug\IF and Else.exe
+C:\Users\Saint\source\repos\Lesson 1\IF and Else\bin\Debug\IF and Else.pdb
+C:\Users\Saint\source\repos\Lesson 1\IF and Else\obj\Debug\IF and Else.csproj.AssemblyReference.cache
+C:\Users\Saint\source\repos\Lesson 1\IF and Else\obj\Debug\IF and Else.csproj.CoreCompileInputs.cache
+C:\Users\Saint\source\repos\Lesson 1\IF and Else\obj\Debug\IF and Else.exe
+C:\Users\Saint\source\repos\Lesson 1\IF and Else\obj\Debug\IF and Else.pdb

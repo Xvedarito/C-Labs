@@ -1,0 +1,9 @@
+﻿  lab 8.cpp
+C:\Users\Saint\source\repos\lab 8\lab 8.cpp(72,21): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+C:\Users\Saint\source\repos\lab 8\lab 8.cpp(72,21): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+C:\Users\Saint\source\repos\lab 8\lab 8.cpp(72,21): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+C:\Users\Saint\source\repos\lab 8\lab 8.cpp(72,21): message : этот аргумент используется в качестве размера буфера
+C:\Users\Saint\source\repos\lab 8\lab 8.cpp(54,10): warning C4101: len: неиспользованная локальная переменная
+C:\Users\Saint\source\repos\lab 8\lab 8.cpp(53,28): warning C4101: j: неиспользованная локальная переменная
+C:\Users\Saint\source\repos\lab 8\lab 8.cpp(55,10): warning C4101: st: неиспользованная локальная переменная
+  lab 8.vcxproj -> C:\Users\Saint\source\repos\lab 8\Debug\lab 8.exe

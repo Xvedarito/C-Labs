@@ -1,0 +1,6 @@
+C:\Users\Saint\source\repos\Lesson 1\Сравнение\bin\Debug\Сравнение.exe.config
+C:\Users\Saint\source\repos\Lesson 1\Сравнение\bin\Debug\Сравнение.exe
+C:\Users\Saint\source\repos\Lesson 1\Сравнение\bin\Debug\Сравнение.pdb
+C:\Users\Saint\source\repos\Lesson 1\Сравнение\obj\Debug\Сравнение.csproj.CoreCompileInputs.cache
+C:\Users\Saint\source\repos\Lesson 1\Сравнение\obj\Debug\Сравнение.exe
+C:\Users\Saint\source\repos\Lesson 1\Сравнение\obj\Debug\Сравнение.pdb

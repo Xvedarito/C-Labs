@@ -1,0 +1,7 @@
+C:\Users\Saint\source\repos\Lesson 1\Function\bin\Debug\Function.exe.config
+C:\Users\Saint\source\repos\Lesson 1\Function\bin\Debug\Function.exe
+C:\Users\Saint\source\repos\Lesson 1\Function\bin\Debug\Function.pdb
+C:\Users\Saint\source\repos\Lesson 1\Function\obj\Debug\Function.csproj.AssemblyReference.cache
+C:\Users\Saint\source\repos\Lesson 1\Function\obj\Debug\Function.csproj.CoreCompileInputs.cache
+C:\Users\Saint\source\repos\Lesson 1\Function\obj\Debug\Function.exe
+C:\Users\Saint\source\repos\Lesson 1\Function\obj\Debug\Function.pdb

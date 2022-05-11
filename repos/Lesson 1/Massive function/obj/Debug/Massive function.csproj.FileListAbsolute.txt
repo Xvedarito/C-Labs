@@ -1,0 +1,7 @@
+C:\Users\Saint\source\repos\Lesson 1\Massive function\bin\Debug\Massive function.exe.config
+C:\Users\Saint\source\repos\Lesson 1\Massive function\bin\Debug\Massive function.exe
+C:\Users\Saint\source\repos\Lesson 1\Massive function\bin\Debug\Massive function.pdb
+C:\Users\Saint\source\repos\Lesson 1\Massive function\obj\Debug\Massive function.csproj.AssemblyReference.cache
+C:\Users\Saint\source\repos\Lesson 1\Massive function\obj\Debug\Massive function.csproj.CoreCompileInputs.cache
+C:\Users\Saint\source\repos\Lesson 1\Massive function\obj\Debug\Massive function.exe
+C:\Users\Saint\source\repos\Lesson 1\Massive function\obj\Debug\Massive function.pdb

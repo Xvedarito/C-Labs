@@ -1,0 +1,7 @@
+C:\Users\Saint\source\repos\Lesson 1\Homework 2\bin\Debug\Homework 2.exe.config
+C:\Users\Saint\source\repos\Lesson 1\Homework 2\bin\Debug\Homework 2.exe
+C:\Users\Saint\source\repos\Lesson 1\Homework 2\bin\Debug\Homework 2.pdb
+C:\Users\Saint\source\repos\Lesson 1\Homework 2\obj\Debug\Homework 2.csproj.AssemblyReference.cache
+C:\Users\Saint\source\repos\Lesson 1\Homework 2\obj\Debug\Homework 2.csproj.CoreCompileInputs.cache
+C:\Users\Saint\source\repos\Lesson 1\Homework 2\obj\Debug\Homework 2.exe
+C:\Users\Saint\source\repos\Lesson 1\Homework 2\obj\Debug\Homework 2.pdb

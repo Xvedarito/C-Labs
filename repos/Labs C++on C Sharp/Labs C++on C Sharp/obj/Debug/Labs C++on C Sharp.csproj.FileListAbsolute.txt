@@ -1,0 +1,7 @@
+C:\Users\Saint\source\repos\Labs C++on C Sharp\Labs C++on C Sharp\bin\Debug\Labs C++on C Sharp.exe.config
+C:\Users\Saint\source\repos\Labs C++on C Sharp\Labs C++on C Sharp\bin\Debug\Labs C++on C Sharp.exe
+C:\Users\Saint\source\repos\Labs C++on C Sharp\Labs C++on C Sharp\bin\Debug\Labs C++on C Sharp.pdb
+C:\Users\Saint\source\repos\Labs C++on C Sharp\Labs C++on C Sharp\obj\Debug\Labs C++on C Sharp.csproj.AssemblyReference.cache
+C:\Users\Saint\source\repos\Labs C++on C Sharp\Labs C++on C Sharp\obj\Debug\Labs C++on C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Saint\source\repos\Labs C++on C Sharp\Labs C++on C Sharp\obj\Debug\Labs C++on C Sharp.exe
+C:\Users\Saint\source\repos\Labs C++on C Sharp\Labs C++on C Sharp\obj\Debug\Labs C++on C Sharp.pdb
